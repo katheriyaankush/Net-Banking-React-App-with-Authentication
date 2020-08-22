@@ -1,0 +1,42 @@
+.productItem h2 {
+  font-size: 1.15rem;
+  margin: 0.25rem 0;
+  color: #2c478f;
+}
+
+
+
+.productItem p {
+  margin: 0.25rem 0;
+}
+
+.Div {
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.Image{
+   
+  height: 140px;
+  width: 165px ;
+ 
+
+  
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.col25 {
+  float: left;
+  width: 15%;
+
+}
+
+.col75 {
+  float: left;
+  width: 70%;
+  margin-left: 105px;
+}

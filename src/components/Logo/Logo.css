@@ -1,0 +1,17 @@
+.Logo {
+    background-color:none;
+    height: 30%;
+    text-align: right;
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: right;
+   
+   }
+   
+   .Logo img {
+   
+       height: 60px;
+       width: 150px;
+       text-align: right;
+       
+   }

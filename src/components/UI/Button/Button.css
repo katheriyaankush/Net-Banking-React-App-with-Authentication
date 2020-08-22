@@ -1,0 +1,77 @@
+.Button{
+
+background-color: cornflowerblue;
+size: 20px;
+height: 30px;
+width: 200px;
+font-weight: bold;
+color: black;
+
+
+}
+
+
+
+    .Delete img {
+   
+        height: 12px;
+        width: 15px;
+        outline: none;
+
+ 
+        
+    }
+    
+.Button:focus{
+
+    background-color: rgb(9, 91, 245);   
+}
+
+
+.Button1 {
+    background-color: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.Button1:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.Button:disabled{
+
+    color: #4b4d48;
+    cursor: not-allowed;
+}
+.Success {
+    color: white;
+    background-color: #3977ebfb;
+    width: 84%;
+margin: 5px;
+
+
+}
+
+.Danger {
+    color: #944317;
+}
+
+
+.SignUp {
+    background-color: transparent;
+    border: none;
+    color: grey;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
